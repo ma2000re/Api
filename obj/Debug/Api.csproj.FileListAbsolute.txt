@@ -1,0 +1,248 @@
+E:\Development\C#\RESTful\Api\bin\Debug\Api.exe.config
+E:\Development\C#\RESTful\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+E:\Development\C#\RESTful\Api\bin\Debug\Api.exe
+E:\Development\C#\RESTful\Api\bin\Debug\Api.pdb
+E:\Development\C#\RESTful\Api\bin\Debug\Common.dll
+E:\Development\C#\RESTful\Api\bin\Debug\Common.Services.dll
+E:\Development\C#\RESTful\Api\bin\Debug\FluentNHibernate.dll
+E:\Development\C#\RESTful\Api\bin\Debug\Iesi.Collections.dll
+E:\Development\C#\RESTful\Api\bin\Debug\MySql.Data.dll
+E:\Development\C#\RESTful\Api\bin\Debug\MySql.Data.Entity.dll
+E:\Development\C#\RESTful\Api\bin\Debug\MySql.Web.dll
+E:\Development\C#\RESTful\Api\bin\Debug\Nancy.dll
+E:\Development\C#\RESTful\Api\bin\Debug\Nancy.Hosting.Self.dll
+E:\Development\C#\RESTful\Api\bin\Debug\NHibernate.dll
+E:\Development\C#\RESTful\Api\bin\Debug\Common.Services.pdb
+E:\Development\C#\RESTful\Api\bin\Debug\Common.pdb
+E:\Development\C#\RESTful\Api\bin\Debug\FluentNHibernate.pdb
+E:\Development\C#\RESTful\Api\bin\Debug\FluentNHibernate.xml
+E:\Development\C#\RESTful\Api\bin\Debug\Iesi.Collections.xml
+E:\Development\C#\RESTful\Api\bin\Debug\Nancy.xml
+E:\Development\C#\RESTful\Api\bin\Debug\Nancy.Hosting.Self.xml
+E:\Development\C#\RESTful\Api\bin\Debug\NHibernate.xml
+E:\Development\C#\RESTful\Api\obj\Debug\Api.exe
+E:\Development\C#\RESTful\Api\obj\Debug\Api.pdb
+E:\Development\C#\RESTful\Api\bin\Debug\Api.exe.manifest
+E:\Development\C#\RESTful\Api\bin\Debug\Api.application
+E:\Development\C#\RESTful\Api\obj\Debug\Api.exe.manifest
+E:\Development\C#\RESTful\Api\obj\Debug\Api.application
+E:\Development\C#\RESTful\Api\bin\Debug\Nancy.Serialization.JsonNet.dll
+E:\Development\C#\RESTful\Api\bin\Debug\Newtonsoft.Json.dll
+E:\Development\C#\RESTful\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Api.exe.config
+C:\Users\Anyway\Desktop\RESTful\Api\obj\Debug\Api.exe
+C:\Users\Anyway\Desktop\RESTful\Api\obj\Debug\Api.pdb
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Api.exe.manifest
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Api.application
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Api.exe
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Api.pdb
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Common.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Common.Services.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\FluentNHibernate.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Iesi.Collections.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\MySql.Data.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\MySql.Web.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Nancy.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Nancy.Serialization.JsonNet.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\NHibernate.dll
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Common.Services.pdb
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Common.pdb
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\FluentNHibernate.pdb
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\FluentNHibernate.xml
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Iesi.Collections.xml
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Nancy.xml
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anyway\Desktop\RESTful\Api\bin\Debug\NHibernate.xml
+C:\Users\Anyway\Desktop\RESTful\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\Anyway\Desktop\RESTful\Api\obj\Debug\Api.exe.manifest
+C:\Users\Anyway\Desktop\RESTful\Api\obj\Debug\Api.application
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Api.exe.config
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\obj\Debug\Api.exe
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\obj\Debug\Api.pdb
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Api.exe
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Api.pdb
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Common.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Common.Services.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\FluentNHibernate.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Iesi.Collections.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\MySql.Data.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\MySql.Web.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Nancy.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Nancy.Serialization.JsonNet.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\NHibernate.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Common.Services.pdb
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Common.pdb
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\FluentNHibernate.pdb
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\FluentNHibernate.xml
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Iesi.Collections.xml
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Nancy.xml
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\NHibernate.xml
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Nancy.Authentication.Basic.dll
+C:\Users\Anyway\Desktop\RESTful - Kopie (2)\Api\bin\Debug\Nancy.Authentication.Basic.xml
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Api.exe.config
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\obj\Debug\Api.exe
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\obj\Debug\Api.pdb
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Api.exe
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Api.pdb
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Common.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Common.Services.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\FluentNHibernate.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Iesi.Collections.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\MySql.Data.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\MySql.Web.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Nancy.Authentication.Basic.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Nancy.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Nancy.Hosting.Self.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Nancy.Serialization.JsonNet.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\NHibernate.dll
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Common.Services.pdb
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Common.pdb
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\FluentNHibernate.pdb
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\FluentNHibernate.xml
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Iesi.Collections.xml
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Nancy.xml
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Nancy.Authentication.Basic.xml
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Nancy.Hosting.Self.xml
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\bin\Debug\NHibernate.xml
+C:\Users\Anyway\Desktop\RESTful_Secure\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Api.exe.config
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\obj\Debug\Api.exe
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\obj\Debug\Api.pdb
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Api.exe
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Api.pdb
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Common.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Common.Services.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\FluentNHibernate.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Iesi.Collections.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\MySql.Data.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\MySql.Data.Entity.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\MySql.Web.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Nancy.Authentication.Basic.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Nancy.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Nancy.Hosting.Self.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Nancy.Serialization.JsonNet.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Newtonsoft.Json.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\NHibernate.dll
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Common.Services.pdb
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Common.pdb
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\FluentNHibernate.pdb
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\FluentNHibernate.xml
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Iesi.Collections.xml
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Nancy.xml
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Nancy.Authentication.Basic.xml
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Nancy.Hosting.Self.xml
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\Newtonsoft.Json.xml
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\bin\Debug\NHibernate.xml
+D:\HAK_2015_2016\Webzugriff Restful\RESTful_Secure\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+E:\RESTful_Secure\Api\bin\Debug\Api.exe.config
+E:\RESTful_Secure\Api\bin\Debug\Api.exe
+E:\RESTful_Secure\Api\bin\Debug\Api.pdb
+E:\RESTful_Secure\Api\bin\Debug\Common.dll
+E:\RESTful_Secure\Api\bin\Debug\Common.Services.dll
+E:\RESTful_Secure\Api\bin\Debug\FluentNHibernate.dll
+E:\RESTful_Secure\Api\bin\Debug\Iesi.Collections.dll
+E:\RESTful_Secure\Api\bin\Debug\MySql.Data.dll
+E:\RESTful_Secure\Api\bin\Debug\MySql.Data.Entity.dll
+E:\RESTful_Secure\Api\bin\Debug\MySql.Web.dll
+E:\RESTful_Secure\Api\bin\Debug\Nancy.Authentication.Basic.dll
+E:\RESTful_Secure\Api\bin\Debug\Nancy.dll
+E:\RESTful_Secure\Api\bin\Debug\Nancy.Hosting.Self.dll
+E:\RESTful_Secure\Api\bin\Debug\Nancy.Serialization.JsonNet.dll
+E:\RESTful_Secure\Api\bin\Debug\Newtonsoft.Json.dll
+E:\RESTful_Secure\Api\bin\Debug\NHibernate.dll
+E:\RESTful_Secure\Api\bin\Debug\Common.Services.pdb
+E:\RESTful_Secure\Api\bin\Debug\Common.Services.dll.config
+E:\RESTful_Secure\Api\bin\Debug\Common.pdb
+E:\RESTful_Secure\Api\bin\Debug\Common.dll.config
+E:\RESTful_Secure\Api\bin\Debug\FluentNHibernate.pdb
+E:\RESTful_Secure\Api\bin\Debug\FluentNHibernate.xml
+E:\RESTful_Secure\Api\bin\Debug\Iesi.Collections.xml
+E:\RESTful_Secure\Api\bin\Debug\Nancy.xml
+E:\RESTful_Secure\Api\bin\Debug\Nancy.Authentication.Basic.xml
+E:\RESTful_Secure\Api\bin\Debug\Nancy.Hosting.Self.xml
+E:\RESTful_Secure\Api\bin\Debug\Newtonsoft.Json.xml
+E:\RESTful_Secure\Api\bin\Debug\NHibernate.xml
+E:\RESTful_Secure\Api\obj\Debug\Api.csprojResolveAssemblyReference.cache
+E:\RESTful_Secure\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+E:\RESTful_Secure\Api\obj\Debug\Api.csproj.CopyComplete
+E:\RESTful_Secure\Api\obj\Debug\Api.exe
+E:\RESTful_Secure\Api\obj\Debug\Api.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\obj\Debug\Api.csprojAssemblyReference.cache
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\obj\Debug\Api.exe
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\obj\Debug\Api.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Api.exe.config
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Api.exe
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Api.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Common.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Common.Services.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\FluentNHibernate.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Iesi.Collections.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\MySql.Data.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\MySql.Data.Entity.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\MySql.Web.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Nancy.Authentication.Basic.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Nancy.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Nancy.Hosting.Self.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Nancy.Serialization.JsonNet.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\NHibernate.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Common.Services.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Common.Services.dll.config
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Common.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Common.dll.config
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\FluentNHibernate.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\FluentNHibernate.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Iesi.Collections.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Nancy.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Nancy.Authentication.Basic.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Nancy.Hosting.Self.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\bin\Debug\NHibernate.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\Diplomarbeit\RESTful_Secure - Kopie\Api\obj\Debug\Api.csproj.CopyComplete
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Api.exe.config
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Api.exe
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Api.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Common.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Common.Services.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\FluentNHibernate.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Iesi.Collections.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\MySql.Data.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\MySql.Data.Entity.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\MySql.Web.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Nancy.Authentication.Basic.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Nancy.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Nancy.Hosting.Self.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Nancy.Serialization.JsonNet.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\NHibernate.dll
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Common.Services.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Common.Services.dll.config
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Common.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Common.dll.config
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\FluentNHibernate.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\FluentNHibernate.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Iesi.Collections.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Nancy.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Nancy.Authentication.Basic.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Nancy.Hosting.Self.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\NHibernate.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.csprojAssemblyReference.cache
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.csproj.CopyComplete
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.exe
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.pdb
