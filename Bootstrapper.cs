@@ -110,6 +110,26 @@
             ar.Reserviert = 2;
             ar.Aktiv = true;
 
+            Rechnung re = new Rechnung();
+            re.Datum = new DateTime(2019, 10, 26);
+            re.Bezahlt = false;
+            re.Kunde = ku;
+            re.Bestellung = be;
+
+            RechnungArtikel reAr = new RechnungArtikel();
+            reAr.Rechnung = re;
+            reAr.Artikel = ar;
+            reAr.Menge = 2;
+            reAr.NettoPreis = 1.20;
+            reAr.Ust = 20;
+
+            BestellungArtikel beAr = new BestellungArtikel();
+            beAr.Bestellung = be;
+            beAr.Artikel = ar;
+            beAr.Menge = 2;
+            beAr.Nettopreis = 1.20;
+            beAr.Ust = 20;
+
 
 
             var session = _sessionFactory.OpenSession();
@@ -131,6 +151,9 @@
                     session.Save(be);
                     session.Save(li);
                     session.Save(ar);
+                    session.Save(re);
+                    session.Save(reAr);
+                    session.Save(beAr);
                     tran.Commit();
                 }
                 catch (Exception ex)

@@ -126,8 +126,11 @@
     <Compile Include="Bootstrapper.cs" />
     <Compile Include="ErrorLogFile.cs" />
     <Compile Include="Modules\ArtModule.cs" />
+    <Compile Include="Modules\BestellungArtikelModule.cs" />
     <Compile Include="Modules\BestellungModule.cs" />
     <Compile Include="Modules\ArtikelModule.cs" />
+    <Compile Include="Modules\RechnungArtikelModule.cs" />
+    <Compile Include="Modules\RechnungModule.cs" />
     <Compile Include="Modules\LieferantenModule.cs" />
     <Compile Include="Modules\KundenModule.cs" />
     <Compile Include="Modules\PostleitzahlModule.cs" />
