@@ -246,3 +246,8 @@ D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\D
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.csproj.CopyComplete
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.exe
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.pdb
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Api.exe.manifest
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Api.application
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.TrustInfo.xml
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.exe.manifest
+D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.application
