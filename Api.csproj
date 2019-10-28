@@ -139,9 +139,6 @@
     <Compile Include="Modules\LoginModule.cs" />
     <Compile Include="Modules\FormularModule.cs" />
     <Compile Include="Modules\FirmendatenModule.cs" />
-    <Compile Include="Modules\BookModule.cs" />
-    <Compile Include="Modules\LendingModule.cs" />
-    <Compile Include="Modules\UserModule.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserIdentity.cs" />

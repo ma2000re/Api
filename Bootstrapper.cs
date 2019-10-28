@@ -20,21 +20,6 @@
         {
             _sessionFactory = CreateSessionFactory();
 
-            Book b = new Book();
-            b.Author = "Hansi";
-            b.InventoryNumber = "B1";
-            b.Title = "Servus";
-            b.Lended = false;
-
-            User u = new User();
-            u.Email = "test@gmx.at";
-            u.Username = "test";
-
-            Lending l = new Lending();
-            l.DateOfLend = DateTime.Now;
-            l.User = u;
-            l.Book = b;
-
             Firmendaten fd = new Firmendaten();
             fd.Name = "BioBauernhof Lahner";
             fd.Rechtsform = "";
@@ -140,22 +125,19 @@
             {
                 try
                 {
-                    //session.Save(b);
-                    //session.Save(u);
-                    //session.Save(l);
-                    session.Save(fd);
-                    session.Save(art);
-                    session.Save(fo);
-                    session.Save(lo);
-                    session.Save(te);
-                    session.Save(pl);
-                    session.Save(ku);
-                    session.Save(be);
-                    session.Save(li);
-                    session.Save(ar);
-                    session.Save(re);
-                    session.Save(reAr);
-                    session.Save(beAr);
+                    //session.Save(fd);
+                    //session.Save(art);
+                    //session.Save(fo);
+                    //session.Save(lo);
+                    //session.Save(te);
+                    //session.Save(pl);
+                    //session.Save(ku);
+                    //session.Save(be);
+                    //session.Save(li);
+                    //session.Save(ar);
+                    //session.Save(re);
+                    //session.Save(reAr);
+                    //session.Save(beAr);
                     tran.Commit();
                 }
                 catch (Exception ex)
@@ -189,9 +171,9 @@
                 .Database(MySQLConfiguration.Standard.ConnectionString("Server=127.0.0.1; Port=3306;Database=FutureFarm; Uid=root;"))
                 .Mappings(m => m.FluentMappings.AddFromAssemblyOf<Art>())
                 //uncomment to update schema db 
-                //.ExposeConfiguration(cfg => new SchemaUpdate(cfg).Execute(false, true)) 
+                .ExposeConfiguration(cfg => new SchemaUpdate(cfg).Execute(false, true)) 
                 //uncoment to create schema db, each time the app is launched the db will be created
-                .ExposeConfiguration(cfg => new SchemaExport(cfg).Create(true, true))
+                //.ExposeConfiguration(cfg => new SchemaExport(cfg).Create(true, true))
               .BuildSessionFactory();
         }
     }
