@@ -116,7 +116,12 @@
             beAr.Menge = 2;
             beAr.Nettopreis = 1.20;
             beAr.Ust = 20;
-            
+
+            News ne = new News();
+            ne.Titel = "Jede Woche, Wolkersdorfer Wochenmarkt!";
+            ne.Beitrag = "Sie wollen jede Woche frische Artikel für Ihre Küche? Das Obst soll vom Bauern sein und nicht aus dem Geschäft? Dann sind sie am WOLKERSDORFER WOCHENMARKT genau richtig!";
+            ne.Datum = new DateTime(2019, 10, 29);
+            ne.Login = lo;
 
 
             var session = _sessionFactory.OpenSession();
@@ -125,19 +130,20 @@
             {
                 try
                 {
-                    //session.Save(fd);
-                    //session.Save(art);
-                    //session.Save(fo);
-                    //session.Save(lo);
-                    //session.Save(te);
-                    //session.Save(pl);
-                    //session.Save(ku);
-                    //session.Save(be);
-                    //session.Save(li);
-                    //session.Save(ar);
-                    //session.Save(re);
-                    //session.Save(reAr);
-                    //session.Save(beAr);
+                    session.Save(fd);
+                    session.Save(art);
+                    session.Save(fo);
+                    session.Save(lo);
+                    session.Save(te);
+                    session.Save(pl);
+                    session.Save(ku);
+                    session.Save(be);
+                    session.Save(li);
+                    session.Save(ar);
+                    session.Save(re);
+                    session.Save(reAr);
+                    session.Save(beAr);
+                    session.Save(ne);
                     tran.Commit();
                 }
                 catch (Exception ex)
@@ -171,9 +177,9 @@
                 .Database(MySQLConfiguration.Standard.ConnectionString("Server=127.0.0.1; Port=3306;Database=FutureFarm; Uid=root;"))
                 .Mappings(m => m.FluentMappings.AddFromAssemblyOf<Art>())
                 //uncomment to update schema db 
-                .ExposeConfiguration(cfg => new SchemaUpdate(cfg).Execute(false, true)) 
+                //.ExposeConfiguration(cfg => new SchemaUpdate(cfg).Execute(false, true)) 
                 //uncoment to create schema db, each time the app is launched the db will be created
-                //.ExposeConfiguration(cfg => new SchemaExport(cfg).Create(true, true))
+                .ExposeConfiguration(cfg => new SchemaExport(cfg).Create(true, true))
               .BuildSessionFactory();
         }
     }
