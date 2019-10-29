@@ -1,0 +1,5 @@
+29.10.2019 16:35	For creating a Book please use POST
+29.10.2019 16:35	For creating a Book please use POST
+29.10.2019 16:35	For creating a Book please use POST
+29.10.2019 16:35	not-null property references a null or transient value Common.Models.Login.Benutzername
+29.10.2019 16:35	For creating a Book please use POST
