@@ -17,7 +17,7 @@ namespace Api.Modules
     {
         ErrorLogFile log = Program.log;
 
-        public ArtikelModule(ArtikelService artikelService)
+        public ArtikelModule(ArtikelService artikelService, LieferantenService lieferantenService)
             : base("/artikel")
         {
             Get["/"] = p =>
@@ -29,7 +29,7 @@ namespace Api.Modules
             Get["/{id}"] = p =>
             {
                 var artikel = artikelService.Get(p.id);
-                if(artikel == null)
+                if (artikel == null)
                 {
                     return HttpStatusCode.NotFound;
                 }
@@ -78,6 +78,28 @@ namespace Api.Modules
                     log.errorLog(ex.Message);
                     return HttpStatusCode.BadRequest;
                 }
+            };
+
+            Post["/lieferanten/{LieferantenID}"] = p =>
+            {
+                Lieferanten l = lieferantenService.Get(p.uid);
+
+                Artikel post = this.Bind();
+                post.Lieferant = l;
+
+                l.Artikel.Add(post);
+
+                try
+                {
+                    var result = artikelService.Add(post);
+                }
+                catch (Exception ex)
+                {
+                    log.errorLog(ex.Message);
+                    return HttpStatusCode.BadRequest;
+                }
+                return HttpStatusCode.Created;
+
             };
         }
     }

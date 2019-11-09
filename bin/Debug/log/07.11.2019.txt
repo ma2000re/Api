@@ -1,0 +1,3 @@
+07.11.2019 09:08	not-null property references a null or transient value Common.Models.Artikel.Lieferant
+07.11.2019 09:08	not-null property references a null or transient value Common.Models.Artikel.Lieferant
+07.11.2019 09:15	could not insert: [Common.Models.Artikel#198][SQL: INSERT INTO `Artikel` (ExterneID, Bezeichnung, PreisNetto, Ust, Lagerstand, Reserviert, Bild, Aktiv, LieferantenID, ArtikelID) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]

@@ -1,0 +1,10 @@
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Titel
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
+01.11.2019 17:31	not-null property references a null or transient value Common.Models.News.Login
