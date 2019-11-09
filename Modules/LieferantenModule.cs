@@ -29,12 +29,23 @@ namespace Api.Modules
             Get["/{id}"] = p =>
             {
                 var lieferanten = lieferantenService.Get(p.id);
-                if(lieferanten == null)
+                if (lieferanten == null)
                 {
                     return HttpStatusCode.NotFound;
                 }
                 return new JsonResponse(lieferanten, new JsonNetSerializer());
             };
+
+            //Get["/{Firma}"] = p =>
+            //{
+            //    var lieferanten = lieferantenService.GetByFirma(p.Firma);
+            //    if(lieferanten==null)
+            //    {
+            //        return HttpStatusCode.NotFound;
+            //    }
+            //    return new JsonResponse(lieferanten, new JsonNetSerializer());
+
+            //};
 
             Post["/"] = p =>
             {

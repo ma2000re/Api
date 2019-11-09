@@ -82,7 +82,7 @@ namespace Api.Modules
 
             Post["/lieferanten/{LieferantenID}"] = p =>
             {
-                Lieferanten l = lieferantenService.Get(p.uid);
+                Lieferanten l = lieferantenService.Get(p.LieferantenID);
 
                 Artikel post = this.Bind();
                 post.Lieferant = l;
