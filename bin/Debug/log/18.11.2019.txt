@@ -1,0 +1,10 @@
+18.11.2019 17:14	For creating a Book please use POST
+18.11.2019 17:14	could not insert: [Common.Models.Login#232][SQL: INSERT INTO `Login` (Benutzername, Passwort, LetzteAnmeldung, BenutzernameID) VALUES (?, ?, ?, ?)]
+18.11.2019 17:14	For creating a Book please use POST
+18.11.2019 17:14	For creating a Book please use POST
+18.11.2019 17:14	For creating a Book please use POST
+18.11.2019 17:14	not-null property references a null or transient value Common.Models.Login.Benutzername
+18.11.2019 17:14	For creating a Book please use POST
+18.11.2019 18:31	could not insert: [Common.Models.News#242][SQL: INSERT INTO `News` (Titel, Beitrag, Datum, BenutzernameID, NewsID) VALUES (?, ?, ?, ?, ?)]
+18.11.2019 18:31	A Book with Bid 154 already exists. To update please use PUT.
+18.11.2019 18:34	object references an unsaved transient instance - save the transient instance before flushing or set cascade action for the property to something that would make it autosave. Type: Common.Models.Login, Entity: Common.Models.Login

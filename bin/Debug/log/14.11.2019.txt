@@ -1,0 +1,4 @@
+14.11.2019 09:30	could not insert: [Common.Models.Artikel#221][SQL: INSERT INTO `Artikel` (ExterneID, Bezeichnung, PreisNetto, Ust, Lagerstand, Reserviert, Bild, Aktiv, LieferantenID, ArtikelID) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+14.11.2019 09:30	could not insert: [Common.Models.Artikel#222][SQL: INSERT INTO `Artikel` (ExterneID, Bezeichnung, PreisNetto, Ust, Lagerstand, Reserviert, Bild, Aktiv, LieferantenID, ArtikelID) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+14.11.2019 09:30	could not insert: [Common.Models.Artikel#223][SQL: INSERT INTO `Artikel` (ExterneID, Bezeichnung, PreisNetto, Ust, Lagerstand, Reserviert, Bild, Aktiv, LieferantenID, ArtikelID) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)]
+14.11.2019 09:30	A Book with Bid 1 already exists. To update please use PUT.

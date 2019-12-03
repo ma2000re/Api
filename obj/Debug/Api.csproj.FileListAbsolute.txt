@@ -242,7 +242,6 @@ D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\D
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\Newtonsoft.Json.xml
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\bin\Debug\NHibernate.xml
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.csprojAssemblyReference.cache
-D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.csproj.CoreCompileInputs.cache
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.csproj.CopyComplete
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.exe
 D:\OneDrive - BHAK und BHAS Mistelbach 316448\Schule\AP_SWE\GitHub\API\Api\obj\Debug\Api.pdb
