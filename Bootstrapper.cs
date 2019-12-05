@@ -177,9 +177,9 @@
                 .Database(MySQLConfiguration.Standard.ConnectionString("Server=127.0.0.1; Port=3306;Database=FutureFarm; Uid=root;"))
                 .Mappings(m => m.FluentMappings.AddFromAssemblyOf<Art>())
                 //uncomment to update schema db 
-                //.ExposeConfiguration(cfg => new SchemaUpdate(cfg).Execute(false, true)) 
+                .ExposeConfiguration(cfg => new SchemaUpdate(cfg).Execute(false, true)) 
                 //uncoment to create schema db, each time the app is launched the db will be created
-                .ExposeConfiguration(cfg => new SchemaExport(cfg).Create(true, true))
+                //.ExposeConfiguration(cfg => new SchemaExport(cfg).Create(true, true))
               .BuildSessionFactory();
         }
     }

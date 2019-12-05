@@ -36,15 +36,15 @@ namespace Api.Modules
                 return new JsonResponse(artikel, new JsonNetSerializer());
             };
 
-            Get["/{aktiv}"] = p =>
-            {
-                var artikel = artikelService.Get(p.aktiv);
-                if (artikel == null)
-                {
-                    return HttpStatusCode.NotFound;
-                }
-                return new JsonResponse(artikel, new JsonNetSerializer());
-            };
+            //Get["/{aktiv}"] = p =>
+            //{
+            //    var artikel = artikelService.Get(p.aktiv);
+            //    if (artikel == null)
+            //    {
+            //        return HttpStatusCode.NotFound;
+            //    }
+            //    return new JsonResponse(artikel, new JsonNetSerializer());
+            //};
 
 
             Post["/"] = p =>
